@@ -3,8 +3,11 @@
 
 ## Background 
 
-This project is backend for a hypothetical social media app, where we must manage our users’ accounts as well as any messages that they submit to the application. The application will function as a micro-blogging or messaging app. In our hypothetical application, any user is able to see all of the messages posted to the site, and they can see the messages posted by a particular user. It isbackend which is able to deliver the data needed to display this information as well as process actions like logins, registrations, message creations, message updates, and message deletions. This project uses Java's Javilin framwork.
+This project is backend for a hypothetical social media app, where we must manage our users’ accounts as well as any messages that they submit to the application. The application will function as a micro-blogging or messaging app. In our hypothetical application, any user is able to see all of the messages posted to the site, and they can see the messages posted by a particular user. It isbackend which is able to deliver the data needed to display this information as well as process actions like logins, registrations, message creations, message updates, and message deletions. This project uses Java's Javilin framwork.  
 
+## Technologies  
+
+This project uses Java, Javalin, SQL
 
 
 ## Database Tables 
