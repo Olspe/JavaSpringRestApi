@@ -7,7 +7,7 @@ This project is backend for a hypothetical social media app, where we must manag
 
 ## Technologies  
 
-This project uses Java, Javalin, Maven, SQL.
+This project uses Java, Javalin, JDBC, Maven, SQL.
 
 
 ## Database Tables 
